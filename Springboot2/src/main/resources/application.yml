@@ -1,0 +1,13 @@
+#server:
+#  port: 8082
+
+name: LKY
+person:
+  name: WYQ
+  age: 29
+  address: [China,Guangdong]
+
+address: [China,India]
+
+
+money: 100W
